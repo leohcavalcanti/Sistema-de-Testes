@@ -1,0 +1,10 @@
+build/
+.gradle/
+bin/
+.vscode/
+.idea
+gradle/
+gradlew
+gradlew.bat
+pom.xml
+target/
