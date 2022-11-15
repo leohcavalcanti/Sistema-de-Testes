@@ -2,7 +2,7 @@ build/
 .gradle/
 bin/
 .vscode/
-.idea
+.idea/
 gradle/
 gradlew
 gradlew.bat
