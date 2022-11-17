@@ -6,5 +6,4 @@ bin/
 gradle/
 gradlew
 gradlew.bat
-pom.xml
 target/
